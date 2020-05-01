@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Ho Tan Dat\source\repos\Project7\Project7\Source.cpp(136,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ho Tan Dat\source\repos\Project7\Project7\Source.cpp(172,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ho Tan Dat\source\repos\Project7\Project7\Source.cpp(184,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project7.vcxproj -> C:\Users\Ho Tan Dat\source\repos\Project7\Debug\Project7.exe
